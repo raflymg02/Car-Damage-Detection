@@ -16,17 +16,17 @@ Extracted size : 1.26 GB
 
 ## Source Code
 1. Clone the repository
-2. (optional) Create a virtual environment:
-   2.1. Open CMD in the place where you cloned the repository
-   2.2. Create a virtual environment
-        `python -m venv myenv`
-   2.3. Activate it
+2. (optional) Create a virtual environment:<br />
+   2.1. Open CMD in the place where you cloned the repository<br />
+   2.2. Create a virtual environment <br />
+        `python -m venv myenv` <br />
+   2.3. Activate it <br />
         `myenv\Scripts\activate`
 
-4. Install the required dependencies
+4. Install the required dependencies <br />
 `pip install tensorflow==2.16.1 keras==3.3.3 numpy pillow matplotlib`
 
-5. Run the script in CMD
+5. Run the script in CMD <br />
    `python main.py`
 
    Note: if you use a virtual environment, make sure to repeat step 2.3 before running the script.
