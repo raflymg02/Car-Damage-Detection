@@ -6,10 +6,11 @@ There are two main ways to start:
 ## .exe Download
 [Download](https://drive.google.com/file/d/1jVMXjaPIjDiKGLmXHK1imegfVEtSWm9V/view?usp=sharing)
 
-.rar size      : 258  MB
+.rar size      : 258  MB <br />
 Extracted size : 1.26 GB
 
-1. Extract the .rar file
+1. Download
+2. Extract the .rar file
 3. Run the .exe
 
 
